@@ -1,0 +1,35 @@
+# ChatGPT, OpenAI:
+
+172.64.155.209 chatgpt.com
+104.18.32.47 chatgpt.com
+2a06:98c1:3100:0:0:0:6812:202f chatgpt.com
+2a06:98c1:310b:0:0:0:ac40:9bd1 chatgpt.com
+
+104.18.32.47 ab.chatgpt.com
+172.64.155.209 ab.chatgpt.com
+2a06:98c1:3100:0:0:0:6812:202f ab.chatgpt.com
+2a06:98c1:310b:0:0:0:ac40:9bd1 ab.chatgpt.com
+
+# Сервисы Google:
+
+142.250.109.100 gemini.google.com
+142.250.109.102 gemini.google.com
+142.250.109.139 gemini.google.com
+142.250.109.138 gemini.google.com
+142.250.109.113 gemini.google.com
+142.250.109.101 gemini.google.com
+2a00:1450:4025:800:0:0:0:71 gemini.google.com
+2a00:1450:4025:800:0:0:0:8b gemini.google.com
+2a00:1450:4025:800:0:0:0:66 gemini.google.com
+2a00:1450:4025:800:0:0:0:65 gemini.google.com
+
+142.251.98.100 aistudio.google.com
+142.251.98.102 aistudio.google.com
+142.251.98.113 aistudio.google.com
+142.251.98.101 aistudio.google.com
+142.251.98.138 aistudio.google.com
+142.251.98.139 aistudio.google.com
+2a00:1450:4025:807:0:0:0:66 aistudio.google.com
+2a00:1450:4025:807:0:0:0:64 aistudio.google.com
+2a00:1450:4025:807:0:0:0:65 aistudio.google.com
+2a00:1450:4025:807:0:0:0:8b aistudio.google.com

@@ -1,0 +1,5 @@
+# Настройки DnsToHosts
+# Примеры: https://dns.google/dns-query
+server=https://dns.google/dns-query
+ipv4=true
+ipv6=true
